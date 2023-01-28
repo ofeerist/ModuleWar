@@ -1,1 +1,2 @@
 # ModuleWar
+In this game, players take on the role of space captains, flying their own ships in a vast and dangerous universe. They must explore the galaxy, mine resources, and engage in intense battles with rival ships and alien factions. As they progress, players can use the resources they collect to create and install new modules on their ships, such as weapons, engines, and shields, to make them stronger and more powerful. They can also team up with friends to form powerful fleets, and work together to conquer the galaxy and dominate the competition.
